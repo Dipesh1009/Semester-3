@@ -1,4 +1,4 @@
-public class CaeserCipher {
+public class CaeserCipherd {
 
     /**
      * Calculates the GCD (Greatest Common Divisor) of two numbers using Euclidean algorithm.
